@@ -36,7 +36,6 @@ namespace ODataApp
             {
                 throw ex;
             }
-            
         }
 
         // Search customers by contact name
